@@ -8,4 +8,4 @@ NOTE :- The above mentioned wipe-out of environment variables happens very spora
 
 This has often led to someone from our team perform the mundane task of copy-pasting env variables from one of the production jenkins masters onto the development jenkins master .
 
-The above mentioned script is an attempt to spare developers from the above-mentioned tedious task.
+The above mentioned [script](https://github.com/padas2/jenkins-admin-helper-scripts/blob/master/jenkins-env-variables-restore.groovy) is an attempt to spare developers from the above-mentioned tedious task.
