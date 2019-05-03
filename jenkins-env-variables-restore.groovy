@@ -1,5 +1,5 @@
 /* 
-* - Has to be run in Jenkins script console. 
+* - Groovy script has to be copied from here and run in Jenkins script console. 
 * - Env variables values have been hardcoded as of now. 
 * - Tried and tested on Jenkins version 2.150
 */
