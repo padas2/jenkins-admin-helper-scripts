@@ -1,5 +1,5 @@
-# jenkins-user-helper-scripts
-Groovy scripts for helping out Jenkins Users
+# jenkins-admin-helper-scripts
+Groovy scripts for helping out Jenkins users and admins alike
 
 ### jenkins-env-variables-restore
 In Jenkins instances whose version >= 2.120, it has been observed, on restart, that the environment variables were being wiped off from the jenkins master .
